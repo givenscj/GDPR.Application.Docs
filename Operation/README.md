@@ -5,7 +5,7 @@ Once fully configured, you can start to promote your new privacy platform to you
 ## Common Tasks
 
 -   Adding Applications
--   Creating Applicaiton Messages
+-   Creating Application Messages
 -   Discovering Subjects
 -   Performing Reports
 -   Handleing Subject Requests (Pre and Post Approvals)

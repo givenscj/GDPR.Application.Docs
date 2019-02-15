@@ -1,11 +1,10 @@
-# Installation
+# Install Utility
 
-The Privacy Platform installer requires a simple Azure AD Application and Secret in order to create all the necessary resources a new instance will need.
+The Install Utility will create all the needed resources in your Azure tenant.  This includes deploying the Azure Web Apps and database.
 
-## Pre-requisities
+## Download the Install Utility
 
--   Azure AD Application
--   Azure Management Permissions
+Ask your partner or privacy platform representative for access to the platform download utility.  For a list of ceritied partners, reference this [list](./Partners.md).
 
 ## Running the Install Utility
 

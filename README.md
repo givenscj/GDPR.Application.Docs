@@ -10,3 +10,7 @@ Welcome to the Privacy Platform documentation pages.  From here you can browse t
 -   [Operation](./Operation/readme.md)
 -   [Reports](./Reports/readme.md)
 -   [Software Development Kit (SDK)](./SDK/readme.md)
+
+## Need Help?  Check out our Certified Partners
+
+For a list of certified partners, reference [here](Partners.md)
