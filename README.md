@@ -7,5 +7,6 @@ Welcome to the Privacy Platform documentation pages.  From here you can browse t
 -   [Installation](./Installation/readme.md)
 -   [Configuration](./Configuration/readme.md)
 -   [Applications](./Applications/readme.md)
+-   [Operation](./Operation/readme.md)
 -   [Reports](./Reports/readme.md)
 -   [Software Development Kit (SDK)](./SDK/readme.md)
