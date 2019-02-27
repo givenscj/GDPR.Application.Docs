@@ -25,5 +25,22 @@ After you have updated your configuration file, run the InstallUtil.exe utility 
 
 A succesful installation will be verified by doing the following:
 
--   Open your Azure Portal
+-   Open your [Azure Portal](https://portal.azure.com)
+-   Your should see something similar to the following:
+
+TODO
+
+## Items created during Installation
+
+-   Resource Group
+-   Azure Application(s)
+-   Azure Storage Account
+-   Event Namespace
+-   Event Hub(s)
+-   SQL Server
+-   SQL Database
+-   Key Vault
+-   Web Apps (Admin, IVR, Consumer)
+-   Congnitive Services (Face, Translation, OCR)
+-   Search
 
