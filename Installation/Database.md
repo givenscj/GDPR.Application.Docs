@@ -19,4 +19,7 @@ A blank database will be installed that will require you to initalize it.  At a 
     -   The system password
     -   Your license key
     -   Check the checkbox if you would like to have all the [Redirect](../Applications/RedirectApplications.md) applications created
+
+>NOTE:  Be sure that the email address is a valid email.  You will need to login using an email provider that passes the matching email claim.  Otherwise you will need to delete the database and start again.
+
 -   Click **Setup**
