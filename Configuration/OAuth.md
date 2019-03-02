@@ -10,14 +10,9 @@ In the case of on-premises installs, you must setup all the applications using a
 
 ## Supported Login Applications
 
-### Microsoft Azure AD
-
-### Microsoft Account
-
-### Facebook
-
-### LinkedIn
-
-### Amazon
-
-### Google
+-   [Azure AD](../Installation/Azure.md)
+-   [Microsoft Account](../Installation/Microsoft.md)
+-   [Facebook](../Installation/Facebook.md)
+-   [LinkedIn](../Installation/LinkedIn.md)
+-   [Amazon](../Installation/Amazon.md)
+-   [Google](../Installation/Google.md)

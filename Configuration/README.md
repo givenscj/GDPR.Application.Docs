@@ -5,11 +5,15 @@ The Privacy Platform has many different components.  You may or may not use all 
 ## High-level 3rd party requirements
 
 -   [Azure Subscription](Azure.md)
--   [PayPal Merchant Account](PayPal.md)
--   [LOB Account](LOB.md)
--   [3rd Party OAuth Login Apps](OAuth.md)
--   [Google CAPTCHA](Google_Captcha.md)
--   [Twilio Account](Twilio.md)
--   [Mail Account (SendGrid)](Mail.md)
 -   [Bing Maps](Bing.md)
+-   [Google CAPTCHA](Google_Captcha.md)
 -   [Google Maps](Google_Maps.md)
+-   [LOB Account](LOB.md)
+-   [Mail Account (SendGrid)](Mail.md)
+-   [3rd Party OAuth Login Apps](OAuth.md)
+-   [PayPal Merchant Account](PayPal.md)
+-   [Twilio Account](Twilio.md)
+
+# Next Steps (Applications)
+
+Now that all necessary 3rd party applications are setup and integrated, you can [create tenants and applications](../Applications/readme.md)

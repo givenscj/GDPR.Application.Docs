@@ -29,3 +29,7 @@ In order to run the Install utility you will need to do some setup in yoru Azure
 In most cases, you will find it easier and more secure to not managed user password hashes.  In order to do this, you must use 3rd party authentication that passes email claims.  Certain providers have stopped sending the email claim (such as Twitter) and cannot be used for authentication.  These providers are subject to change in the future.
 
 - [Configure 3rd Party Auth](Authentication.md)
+
+#   Next step ([Configuration](../Configuration/readme.md))
+
+Now that you have the core system setup, its time to move onto setting up tenants and applications via [configuration](../Configuration/readme.md)
