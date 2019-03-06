@@ -25,6 +25,8 @@ An Azure application can be used for many different things.  Due to the configur
 -   In the empty textbox, type the URL of your deployed web applications.  You will have at least two:
     -   Admin - https://{prefix}gdprwebadmin.azurewebsites.net/signin-microsoft
     -   Subject - https://{prefix}gdprwebsubject.azurewebsites.net/signin-microsoft
+    -   Subject - https://{prefix}gdprwebadmin.azurewebsites.net/Home/AzureAdAuthorize
+    -   Subject - https://{prefix}gdprwebsubject.azurewebsites.net/Home/AzureAdAuthorize
 -   Click **Keys**
 -   In the **Passwords** section and the empty textbox, type **GDPRKey1**
 -   For **Expires**, select **Never expires**
