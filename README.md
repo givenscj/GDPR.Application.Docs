@@ -15,6 +15,8 @@ If you are an end user, reference the [end user documentation](./EndUser/readme.
 -   [Reports](./Reports/readme.md)
 -   [Software Development Kit (SDK)](./SDK/readme.md)
 
-## Need Help?  Check out our Certified Partners
+## Need Help?  
+
+Email us at [support@privacycentra.com](mailto:support@privacycentralcom)
 
 For a list of certified partners, reference [here](Partners.md)
