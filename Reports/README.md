@@ -16,7 +16,7 @@ The Privacy Platform provides several system, tenant and application level repor
 -   [View Users](Applications_Users.md)
 -   [Consents](Applications_Consents.md)
 -   [View Logs](Applications_Logs.md)
--   [View Subjects](Applications_Subject.md)
+-   [View Subjects](Applications_Subjects.md)
 -   [View Demographics](Applications_Demographics.md)
 -   [View Application Message Costs](Applications_MessageCosts.md)
 -   [View Subject Requests](Applications_SubjectRequests.md)
