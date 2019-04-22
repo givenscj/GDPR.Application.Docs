@@ -17,6 +17,6 @@ If you are an end user, reference the [end user documentation](./EndUser/readme.
 
 ## Need Help?  
 
-Email us at [support@privacycentra.com](mailto:support@privacycentralcom)
+Email us at [support@privacycentral.com](mailto:support@privacycentralcom)
 
 For a list of certified partners, reference [here](Partners.md)
